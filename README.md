@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [troopl.com/rafaelquintanilha18](troopl.com/rafaelquintanilha18)
+- 👨‍💻 All of my projects are available at troopl.com/rafaelquintanilha18
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Ruby, Rails**
 
