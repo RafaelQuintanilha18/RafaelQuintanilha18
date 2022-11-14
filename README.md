@@ -1,4 +1,3 @@
-# RafaelQuintanilha18
 <h1 align="center">Hi 👋, I'm Rafael Quintanilha</h1>
 <h3 align="center">A passionate frontend developer seeking for my first opportunity as web developer</h3>
 
