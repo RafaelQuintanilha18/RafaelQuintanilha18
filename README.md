@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-# RafaelQuintanilha18
-<h1 align="center">Hi 👋, I'm Rafael Quintanilha</h1>
-<h3 align="center">A passionate frontend developer seeking for my first opportunity as web developer</h3>
-=======
 <h1 align="center">Hi 👋, I'm Rafael Quintanilha</h1>
 <h3 align="center">A passionate frontend developer seeking for my first opportunity as a web developer. :)</h3>
->>>>>>> 4cd6e7732acbf095e05ecb585d2430a6247cee95
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelquintanilha18" alt="rafaelquintanilha18" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
-<<<<<<< HEAD
-- 👨‍💻 All of my projects are available at [troopl.com/rafaelquintanilha18](troopl.com/rafaelquintanilha18)
-=======
 - 👨‍💻 All of my projects are available at <a href="https://troopl.com/rafaelquintanilha18" target="_blank" rel="noreferrer">troopl.com/rafaelquintanilha18</a>
->>>>>>> 4cd6e7732acbf095e05ecb585d2430a6247cee95
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Ruby, Rails**
 
