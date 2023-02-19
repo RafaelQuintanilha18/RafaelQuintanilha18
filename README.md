@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Quintanilha</h1>
-<h3 align="center">A passionate frontend developer seeking for my first opportunity as a web developer. :)</h3>
+<h3 align="center">Frontend developer :)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelquintanilha18" alt="rafaelquintanilha18" /></a> </p>
 
