@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently diving deep into **React**
 
-- 👨‍💻 Checkout my Portfolio Website <a href="https://rafaelquintanilha.dev" target="_blank" rel="noreferrer">**https://rafaelquintanilha.dev**</a>
+- 👨‍💻 Checkout my Portfolio Website: <a href="https://rafaelquintanilha.dev" target="_blank" rel="noreferrer">**https://rafaelquintanilha.dev**</a>
 
 - 💬 Ask me about **React JS, JavaScript, Ruby, Ruby on Rails, HTML and CSS**
 
