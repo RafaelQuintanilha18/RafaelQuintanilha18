@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelquintanilha18" alt="rafaelquintanilha18" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently diving deep into **React**
 
-- 👨‍💻 All of my projects are available at <a href="https://troopl.com/rafaelquintanilha18" target="_blank" rel="noreferrer">troopl.com/rafaelquintanilha18</a>
+- 👨‍💻 Checkout my Portfolio Website <a href="https://rafaelquintanilha.dev" target="_blank" rel="noreferrer">**https://rafaelquintanilha.dev**</a>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Ruby, Rails**
+- 💬 Ask me about **React JS, JavaScript, Ruby, Ruby on Rails, HTML and CSS**
 
 - 📫 How to reach me **rafael.quintanilha18@gmail.com**
 
